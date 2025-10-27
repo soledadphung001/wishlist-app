@@ -260,7 +260,6 @@ This template uses [Remix](https://remix.run). The following Shopify tools are a
 - **Author**: Phung Tran
 - **LinkedIn**: [Phụng Trần](https://www.linkedin.com/in/ph%E1%BB%A5ng-tr%E1%BA%A7n-7820a5b7/)
 - **Email**: phungthaouit@gmail.com
-- **Documentation**: See `TESTING_GUIDE_CHECKOUT.md`
 
 ## Resources
 
